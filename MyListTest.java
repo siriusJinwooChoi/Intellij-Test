@@ -33,6 +33,7 @@ public class MyListTest {
         //test.checkArrayList3();
         //test.checkArrayList4();
         test.checkStack();
+        test.checkStack();
     }
 
     ///////////////////////////////////////////////////////
